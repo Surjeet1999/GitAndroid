@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("TAG", "onCreate: "+"message");
         Log.d("TAG", "onCreate: "+ "Hello World!");
+        Log.d("TAG", "onCreate: "+ "Hello World!");
     }
 }
